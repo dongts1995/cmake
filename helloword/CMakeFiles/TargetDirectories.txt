@@ -1,0 +1,3 @@
+/home/dongts/Documents/cmake_tutorial/helloword/CMakeFiles/rebuild_cache.dir
+/home/dongts/Documents/cmake_tutorial/helloword/CMakeFiles/hello.dir
+/home/dongts/Documents/cmake_tutorial/helloword/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+/home/dongts/Documents/cmake_tutorial/student/build/CMakeFiles/rebuild_cache.dir
+/home/dongts/Documents/cmake_tutorial/student/build/CMakeFiles/testStudent.dir
+/home/dongts/Documents/cmake_tutorial/student/build/CMakeFiles/edit_cache.dir
